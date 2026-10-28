@@ -46,7 +46,7 @@ class AvaraApp extends StatelessWidget {
         // Inject your key: flutter run --dart-define=GEMINI_API_KEY=<your_key>
         apiKey: const String.fromEnvironment(
           'GEMINI_API_KEY',
-          defaultValue: 'AQ.Ab8RN6IGQlpvDKA2G4Vq1DFH33LoNikM1hjYhNOocYOWMwKEUQ',
+          defaultValue: '',
         ),
       ),
     );
