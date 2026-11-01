@@ -59,12 +59,6 @@ This repository contains the complete implementation for **Teammate 2** on the *
     - Dark mode luxury palette (#0B0F17, #161D2A, #8B5CF6, #F59E0B, #10B981).
     - Loading states, empty states, error handling, and confirmation dialogs.
 
-### Teammate 1 Responsibilities (NOT Implemented — Interfaces Provided)
-- Astrological calculations and birth-chart ephemeris processing.
-- Astrological interpretations and planetary evidence retrieval.
-- AVARA Habits tracking and consistency algorithms.
-- AVARA Insights synthesis and pattern identification.
-
 ---
 
 ## 2. Directory Structure
