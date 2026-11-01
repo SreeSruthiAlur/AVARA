@@ -1,4 +1,12 @@
-# AVARA Astrology — Birth Profile & Astrology Evidence
+# AVARA — AI Personal Growth & Astrology Application
+
+> **Project Architecture & Modules Overview:**
+> - **Teammate 1 (Astrology & Birth Chart Engine)**: Flutter Vedic Kundali calculation app documented below.
+> - **Teammate 2 (Vinya — Shared Core & Application Modules)**: Multilingual Telugu/Tanglish/English NLP, Priority Safety Layer, JWT Authentication, FastAPI Backend, AVARA Finance, AVARA Health, Astrologer Consultations, and React Native Expo Mobile App. See [README_TEAMMATE2.md](README_TEAMMATE2.md) for full documentation, API reference, test results, and startup instructions.
+
+---
+
+## Teammate 1: Astrology & Birth Profile Evidence (Flutter)
 
 A Flutter app that calculates a Vedic **Janma Kundali** (birth chart) using the
 Swiss Ephemeris (`sweph`), then displays the user's **Telugu Rasi** and
